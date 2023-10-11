@@ -1,4 +1,5 @@
-## Olá, sou o Gabriel 👋
+
+## Hii, dear 👋 I'm Gabriel 
 
 <div>
 
@@ -24,4 +25,9 @@
 
 ![Snake animation](https://github.com/gabreuls/gabreuls/blob/output/github-contribution-grid-snake.svg)
 
-<!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=gabreuls&repo=gabreuls&theme=react)](https://github.com/gabreuls/gabreuls)!-->
+<div>
+<p align="center">
+<img height="180cm" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+</p>
+  <p align="center"><em>Caso esteje cansado, sente-se e descanse um pouco...</em></p>
+</div>
