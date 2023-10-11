@@ -21,3 +21,7 @@
   <a href = "https://open.spotify.com/user/31fi4ft4o5e4kc2btggwx4mfzuji" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
 </div>
+
+![Snake animation](https://github.com/gabreuls/gabreuls/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=gabreuls&repo=gabreuls&theme=react)](https://github.com/gabreuls/gabreuls)
