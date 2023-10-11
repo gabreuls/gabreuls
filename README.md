@@ -24,4 +24,4 @@
 
 ![Snake animation](https://github.com/gabreuls/gabreuls/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=gabreuls&repo=gabreuls&theme=react)](https://github.com/gabreuls/gabreuls)
+<!--[![readme](https://github-readme-stats.vercel.app/api/pin/?username=gabreuls&repo=gabreuls&theme=react)](https://github.com/gabreuls/gabreuls)!-->
