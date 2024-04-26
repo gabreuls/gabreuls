@@ -10,7 +10,7 @@
 <img height="50cm" src="https://github.com/gabreuls/gabreuls/blob/main/images/icons8-github-50.png"><img height="50cm" src="https://github.com/gabreuls/gabreuls/blob/main/images/icons8-python-48.png">
 <img height="50cm" src="https://github.com/gabreuls/gabreuls/blob/main/images/icons8-git-48.png">
 <img height="50cm" src="https://github.com/gabreuls/gabreuls/blob/main/images/icons8-c-afiado-logotipo-64.png">
-<img height="50cm" src="https://github.com/gabreuls/gabreuls/blob/main/images/icons8-sql-80.png">
+<img height="50cm" src="https://github.com/gabreuls/gabreuls/blob/main/images/icons8-sql-48.png">
 <br>
 
 #### Contato
