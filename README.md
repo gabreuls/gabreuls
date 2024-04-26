@@ -29,12 +29,9 @@
     <img height="120cm" width="500cm" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabreuls&layout=compact&theme=neon"/>
 </a>
 
-<div>
-<br>
+<br><br><br>
+
 <img height="500cm" src="https://github.com/gabreuls/gabreuls/blob/main/images/gif%20mario%20programing.gif">
- 
-  
-</div>
 
 <!-- <div>
 <p align="center">
