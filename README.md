@@ -26,7 +26,7 @@
     <img height="175cm" align="left" src="https://github-readme-stats.vercel.app/api?username=gabreuls&show_icons=true&theme=neon&count_private=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height="120cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabreuls&layout=compact&theme=neon"/>
+    <img height="120cm" width="500cm" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabreuls&layout=compact&theme=neon"/>
 </a>
 
 <div>
