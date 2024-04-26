@@ -23,10 +23,10 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="100cm" align="left" src="https://github-readme-stats.vercel.app/api?username=gabreuls&show_icons=true&theme=neon&count_private=true"/>
+    <img height="175cm" align="left" src="https://github-readme-stats.vercel.app/api?username=gabreuls&show_icons=true&theme=neon&count_private=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height="75cm" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabreuls&layout=compact&theme=neon"/>
+    <img height="150cm" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabreuls&layout=compact&theme=neon"/>
 </a>
 
 <br><br><br>
