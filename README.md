@@ -1,6 +1,6 @@
 
-## Hii, dear 👋 I'm Gabriel 
-
+![GIF Boas-Vindas](https://raw.githubusercontent.com/gabreuls/gabreuls/main/images/hello.gif)
+ 
 <!-- <div>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
