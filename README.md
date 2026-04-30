@@ -4,7 +4,7 @@
 
 
 ## Sobre Mim 
-👨🏻‍💻 *24 anos, Universitário, apaixonado por ciência e tecnologia, e apreciador de uma boa cerveja quando não estou na frente do computador!*
+👨🏻‍💻 *26 anos, Universitário, apaixonado por ciência e tecnologia, e apreciador de uma boa cerveja quando não estou na frente do computador!*
 
 ###
 
